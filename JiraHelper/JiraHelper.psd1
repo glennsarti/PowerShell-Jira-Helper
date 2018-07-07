@@ -26,7 +26,7 @@ CompanyName = 'Glenn Sarti'
 Copyright = '(c) 2018 Glenn Sarti. All rights reserved.'
 
 # Description of the functionality provided by this module
-# Description = ''
+Description = 'A PowerShell module inspired by the oh-my-zsh jira plugin'
 
 # Minimum version of the Windows PowerShell engine required by this module
 # PowerShellVersion = ''
