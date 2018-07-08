@@ -11,7 +11,7 @@ PS> Import-Module JiraHelper.psd1
 
 ## Usage
 
-This module adds a single PowerSHell alias called `jira`
+This module adds a single PowerShell alias called `jira`
 
 ```
 jira            # Opens an existing issues matching the current git branch
